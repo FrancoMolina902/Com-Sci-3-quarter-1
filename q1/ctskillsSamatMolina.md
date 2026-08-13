@@ -67,8 +67,9 @@ For each sub-problem, apply CT skills:
  Identified Sub-Problem: The lack of an automated inventory tracker means the stock needs to be manually checked regularly, which can be time-consuming when many   students are buying food
 
  Pseudocode:   
-                        START
-
+                        
+                         START
+                        
                   Display menu and prices
 
               Ask student to choose an item
