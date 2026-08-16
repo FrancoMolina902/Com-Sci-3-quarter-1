@@ -1,3 +1,5 @@
+https://github.com/FrancoMolina902/Com-Sci-3-quarter-1/edit/main/q1/q1_sg2_a1.md
+
 Annex A
 Computational Thinking Exercise: "Smart School Canteen Queue"
 
